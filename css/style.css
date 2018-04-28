@@ -1,0 +1,12 @@
+html, body
+{
+  background-image: url('../img/background.jpg');
+  background-size: 100%;
+  background-attachment: fixed;
+  
+  tex
+}
+h2
+{
+  display: inline;
+}
